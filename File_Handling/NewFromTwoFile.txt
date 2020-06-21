@@ -1,0 +1,13 @@
+Hello this is temporary file.
+I am Vikram Singh.
+I am Learning file-handling in Python.
+Let's see I am able to do it or not.Hey I am Trying to write in Same File.
+
+
+Hey above content is from First File.Hello!, I am writing in new file.
+Let's see it will work or not.
+Hello!, I am writing second line in new file.
+Let's see it will work or not.
+Boom! It's working.
+
+Hey! We created new file from two file
