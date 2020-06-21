@@ -1,0 +1,4 @@
+Hello this is temporary file.
+I am Vikram Singh.
+I am Learning file-handling in Python.
+Let's see I am able to do it or not.
