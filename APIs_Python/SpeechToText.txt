@@ -1,1 +1,2 @@
-this is Vikram Singh working on python speech to text and one is an IBM Watson API let us see it is working or not 
+This is Vikram Singh. 
+Working on python speech to text conversion. It is an IBM Watson API let us see it is working or not. 
