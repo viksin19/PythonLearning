@@ -1,8 +1,8 @@
 from ibm_watson import SpeechToTextV1 
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
-url = 'url' 
-key = IAMAuthenticator('key')
+url = 'url'   #Generate your url from IBM cloud
+key = IAMAuthenticator('key') #Generate your Key from IBM cloud
 
 resultObj = SpeechToTextV1(key)
 resultObj.set_service_url(url)
